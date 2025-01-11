@@ -9,8 +9,8 @@ dependencies:
     specifier: 10.4.20
     version: 10.4.20(postcss@8.4.47)
   jovencio-datatable-vue:
-    specifier: 1.1.21
-    version: 1.1.21
+    specifier: 1.1.30
+    version: 1.1.30
   postcss:
     specifier: 8.4.47
     version: 8.4.47
@@ -947,8 +947,8 @@ packages:
     hasBin: true
     dev: false
 
-  /jovencio-datatable-vue@1.1.21:
-    resolution: {integrity: sha512-JyY9/EumW54mwpTXe8AWjgtWumlMS9j8LSI+WoWks4Yue62cubHJBZIhr9YR5TnVYC84OTPFe7uy/4OrYmhwdw==}
+  /jovencio-datatable-vue@1.1.30:
+    resolution: {integrity: sha512-UA7EwTp54bv4U9JdKm/NOrWqErDgQ/ckzFoFpUpiZrbdx2fVYFT1Oxj3SEFamDDiRB2X35eLwY3LlcaEhjQOdg==}
     dev: false
 
   /lilconfig@2.1.0:
